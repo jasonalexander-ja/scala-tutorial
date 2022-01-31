@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Tester/Tester.iml" filepath="$PROJECT_DIR$/src/Tester/Tester.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-at-light-speed.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-at-light-speed-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-at-light-speed-build.iml" />
     </modules>
